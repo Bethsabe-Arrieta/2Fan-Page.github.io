@@ -1,0 +1,39 @@
+
+body{
+    background-color: rgb(94, 94, 94);
+}
+
+h5{
+    font-family: fantasy;
+    text-align: center;
+    background-color: rgb(245, 107, 107);
+}
+
+p{
+    font-family: cursive;
+    font-size: small;
+    text-align: center;
+    padding: 10px 10px;
+
+}
+
+img{
+    width:100% ;
+    height: 100%;
+    display: block;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 1200px;
+    margin: 5px auto;
+}
+
+.card{
+    border-radius:20px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
